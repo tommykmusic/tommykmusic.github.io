@@ -1,0 +1,504 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.muse-guru.com/tommykmusic7" resolutions="1x" timestamp="1490212669384">
+  <folder name="css">
+    <file name="site_global.css" crc="4237753417"/>
+    <file name="master_a-master-copy.css" crc="4274480625" ref="contact:media"/>
+    <file name="nomq_preview_master_a-master-copy.css" crc="283933040" ref="contact:media"/>
+    <file name="master_a-master.css" crc="368465170" ref="about:news:store:index:gear:lessons:tour"/>
+    <file name="nomq_preview_master_a-master.css" crc="3860910673" ref="about:news:store:index:gear:lessons:tour"/>
+    <file name="contact.css" crc="3785135832" ref="contact"/>
+    <file name="nomq_contact.css" crc="3947547197" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3905927654" ref="contact"/>
+    <file name="about.css" crc="210520321" ref="about"/>
+    <file name="nomq_about.css" crc="295818969" ref="about"/>
+    <file name="iefonts_about.css" crc="3905927654" ref="about"/>
+    <file name="news.css" crc="3804775262" ref="news"/>
+    <file name="nomq_news.css" crc="162891164" ref="news"/>
+    <file name="iefonts_news.css" crc="3905927654" ref="news"/>
+    <file name="store.css" crc="92230159" ref="store"/>
+    <file name="nomq_store.css" crc="122318809" ref="store"/>
+    <file name="iefonts_store.css" crc="3905927654" ref="store"/>
+    <file name="index.css" crc="4251920007" ref="index"/>
+    <file name="nomq_index.css" crc="4183817134" ref="index"/>
+    <file name="iefonts_index.css" crc="3905927654" ref="index"/>
+    <file name="gear.css" crc="94819466" ref="gear"/>
+    <file name="nomq_gear.css" crc="292140560" ref="gear"/>
+    <file name="iefonts_gear.css" crc="3905927654" ref="gear"/>
+    <file name="lessons.css" crc="274970641" ref="lessons"/>
+    <file name="nomq_lessons.css" crc="163989293" ref="lessons"/>
+    <file name="iefonts_lessons.css" crc="3905927654" ref="lessons"/>
+    <file name="tour.css" crc="492103150" ref="tour"/>
+    <file name="nomq_tour.css" crc="185218290" ref="tour"/>
+    <file name="iefonts_tour.css" crc="3905927654" ref="tour"/>
+    <file name="media.css" crc="5240157" ref="media"/>
+    <file name="nomq_media.css" crc="204906110" ref="media"/>
+    <file name="iefonts_media.css" crc="3905927654" ref="media"/>
+  </folder>
+  <folder name="fonts">
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+    <file name="phantom regular.woff" crc="3772421434"/>
+    <file name="phantom regular.eot" crc="4239856141"/>
+    <file name="phantom regular.svg" crc="373172485"/>
+    <file name="phantom light.woff" crc="4137171610"/>
+    <file name="phantom light.eot" crc="3910844245"/>
+    <file name="phantom light.svg" crc="4135298836"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="museutils.js" crc="4232573551" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="whatinput.js" crc="86476730" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="webpro.js" crc="3770351119" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="form_check.php" crc="3841221102" ref="about"/>
+    <file name="form_throttle.php" crc="4048049783" ref="about"/>
+    <file name="form_process.php" crc="3899230280" ref="about"/>
+    <file name="form-u4607.php" crc="3814937087" ref="about"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="about:tour:lessons:store:news:gear:index:media:contact"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="about:tour:lessons:store:news:gear:index:media:contact"/>
+    <file name="require.js" crc="4234670167" ref="about:tour:media:lessons:store:contact:news:gear:index"/>
+    <file name="form-u3214.php" crc="3814937087" ref="media"/>
+    <file name="form-u962.php" crc="107852633" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="toomkmusic-(official-logo)1.png" crc="4051188701" seo="true" ref="about:tour:media:lessons:store:contact:news:gear:index">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="tour" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="lessons" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="background_home-copy.jpg" crc="418308556" ref="about:media:lessons:store:contact:news:gear:index">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="close_musemenupro.png" crc="481936843" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="bandcamp-logo_poster_.png" crc="474678260" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (72)_poster_.png" crc="109563008" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (3)_poster_.png" crc="3855169117" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (6)_poster_.png" crc="3958592943" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (7)_poster_.png" crc="3927170338" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (17)_poster_.png" crc="161937791" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (22)_poster_.png" crc="4235898529" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (30)_poster_.png" crc="246854983" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="social icons by dreamstale (33)_poster_.png" crc="425259366" ref="about:media">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+      <caption webpage="gear" alt=""/>
+    </file>
+    <file name="background_home-copy-u632-fr.jpg" crc="3856415270" ref="about:tour:lessons:store:news:gear:media:contact"/>
+    <file name="menu bars-01.svg" crc="57421060" ref="about:media"/>
+    <file name="menu bars-01_poster_u5471.png" crc="4090457149" ref="about:media"/>
+    <file name="blank.gif" crc="4208392903" ref="about:tour:lessons:store:news:gear:index:media:contact"/>
+    <file name="heading-icon.png" crc="4234348749" seo="true" ref="media:contact:news:index">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="home_gift_ideas.jpg" crc="3849717828" ref="lessons">
+      <caption webpage="lessons" alt=""/>
+    </file>
+    <file name="home_music_classes.jpg" crc="436518310" ref="lessons">
+      <caption webpage="lessons" alt=""/>
+    </file>
+    <file name="home_rent_space.jpg" crc="340354757" ref="lessons">
+      <caption webpage="lessons" alt=""/>
+    </file>
+    <file name="6358614596527738711752945771_music.jpg" crc="533371971" ref="news:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="background_home-copy-u3608-fr.jpg" crc="4039529643" ref="gear"/>
+    <file name="background_home-copy-u869-fr.jpg" crc="397344209" ref="media"/>
+    <file name="background_home-copy-u946-fr.jpg" crc="441057732" ref="contact"/>
+    <file name="background_home-copy-u632-fr2.jpg" crc="3807234356" ref="about:tour:media:lessons:store:contact:news:gear"/>
+    <file name="background_home-copy-u632-fr3.jpg" crc="370442694" ref="about:news"/>
+    <file name="background_home-copy-u632-fr4.jpg" crc="121103193" ref="about"/>
+    <file name="background_home-copy-u668-fr.jpg" crc="353314583" ref="tour"/>
+    <file name="background_home-copy-u668-fr2.jpg" crc="28665045" ref="tour:media:lessons:store:gear"/>
+    <file name="background_home-copy-u668-fr3.jpg" crc="464395850" ref="tour:lessons:store:contact:news"/>
+    <file name="6358614596527738711752945771_music-u1554-fr.jpg" crc="4181211820" ref="news:index"/>
+    <file name="6358614596527738711752945771_music-u1572-fr.jpg" crc="4114153843" ref="news"/>
+    <file name="background_home-copy-u4674-fr.jpg" crc="490881964" ref="index"/>
+    <file name="background_home-copy-u4674-fr2.jpg" crc="4224856768" ref="index"/>
+    <file name="6358614596527738711752945771_music-u4678-fr.jpg" crc="4288847761" ref="index"/>
+  </folder>
+  <file name="about.html" crc="4149171588" seo="true" mt="1490206068076" redirect="true"/>
+  <file name="tour.html" crc="4218124044" seo="true" mt="1490212602667" redirect="true"/>
+  <file name="media.html" crc="502370751" seo="true" mt="1490209732660" redirect="true"/>
+  <file name="lessons.html" crc="4009398649" seo="true" mt="1490211962963" redirect="true"/>
+  <file name="store.html" crc="52537962" seo="true" mt="1490212114956" redirect="true"/>
+  <file name="contact.html" crc="4069572497" seo="true" mt="1490204729525" redirect="true"/>
+  <file name="news.html" crc="4213555507" seo="true" mt="1490207139508" redirect="true"/>
+  <file name="gear.html" crc="285367940" seo="true" mt="1490204706779" redirect="true"/>
+  <file name="index.html" crc="4084801314" seo="true" mt="1490205626362" redirect="true"/>
+</manifest>
